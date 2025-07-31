@@ -78,11 +78,12 @@
 ---
 
 ## 🔥 GitHub Streak
-
+<p align="center">
 <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=lopes-obregon&theme=dark&hide_border=false"
         alt="GitHub Streak Stats"
-/>
+       
+/></p>
 ### 🏆 GitHub Profile Trophy
 ---
 <p align="center">
