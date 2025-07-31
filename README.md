@@ -71,11 +71,31 @@
 
 ###
 
-## 📈 Recent Activity
+## 📈 Atividade Recente
 
 [![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=lopes-obregon&theme=github-dark)](https://github.com/ashishguptaiitb/github-readme-activity-graph)
 
-###
+---
+
+## 🔥 GitHub Streak
+
+<img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lopes-obregon&theme=dark&hide_border=false"
+        alt="GitHub Streak Stats"
+/>
+### 🏆 GitHub Profile Trophy
+---
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=lopes-obregon&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Rodapé Animado"/>
