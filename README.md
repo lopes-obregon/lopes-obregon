@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 (when I started my first coding course, "Introdução à Linguagem HTML") <br>📚 I'm currently learning more about cybersecurity and advanced development techniques as I pursue my Information Systems degree .<br>🎯 Goals: To continue developing my skills, seeking opportunities for growth, and contributing my best to all activities .<br>🎲 Fun fact: I'm certified in remote drone operation and hold a CNH AB.</p>
+<p align="left">✨ Creating bugs since 2019 (when I started my first coding course, "Introdução à Linguagem HTML") <br>📚 I'm currently learning more about cybersecurity and advanced development techniques as I pursue my Information Systems degree .<br>🎯 Goals: To continue developing my skills, seeking opportunities for growth, and contributing my best to all activities .<br>.</p>
 
 # ⭐ GitHub Status
 
