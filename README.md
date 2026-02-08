@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Renan Lopes Obregon and I'm a Full-stack Developer, from Dourados, Mato Grosso do Sul, Brazil.</p>
+<p align="left">My name is Renan Lopes Obregon and I'm a Full-stack Developer, from Brazil.</p>
 
 ###
 
