@@ -14,8 +14,8 @@
 
 # ⭐ GitHub Status
 
-|[![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lopes-obregon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopes-obregon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens Mais Usadas"/>
-| :---: | :---: |
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lopes-obregon&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lopes-obregon&theme=tokyonight)
 
 <h2 align="left">I code with</h2>
 
