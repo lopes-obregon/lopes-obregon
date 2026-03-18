@@ -71,7 +71,7 @@
 
 ###
 
-## 📈 Atividade Recente
+## 📈 Recent Activity
 
 [![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=lopes-obregon&theme=github-dark)](https://github.com/ashishguptaiitb/github-readme-activity-graph)
 
